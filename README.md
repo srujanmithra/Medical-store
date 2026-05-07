@@ -22,4 +22,4 @@ A React-based web application for managing a medical store.
 3. Run `npm start`
 
 ## Live Demo
-(Add your Netlify link here)
+(https://elegant-dasik-953404.netlify.app/)
